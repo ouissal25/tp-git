@@ -1,2 +1,3 @@
-""""
-echo dans file2
+<?php
+echo 'commit en parallele branche 2';
+?>
